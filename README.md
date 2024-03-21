@@ -1,8 +1,7 @@
 ## 👋 Hi, I’m Olav
 
-- I do coding for fun, i.e. [code.golf](https://code.golf) :golf: and [Advent of Code](https://adventofcode.com) :santa:
-- Concerned about how technology shapes society :point_right: [Tactical Tech](https://tacticaltech.org/)
-- Interested in healthcare and informatics, currently researching multidrug resistance in *Klebsiella pneumoniae* at [CBU](https://www.cbu.uib.no/johnston-group/) :stethoscope:
+- I am researching the evolution of antimicrobial resistance in Klebsiella pneumoniae at [CBU](https://www.cbu.uib.no/johnston-group/) :stethoscope: 
+- My first research article is available as a [preprint](https://www.biorxiv.org/content/10.1101/2024.03.07.583841v1) :memo:
 - Medical student, informatics TA and problem solver at [UiB](https://www.uib.no/) 🏫
 
 <!---
